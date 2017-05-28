@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<EMPLOYEE id='1' name='Chris' job='test' birthday='2001-01-01' />
+	<EMPLOYEE id='2' name='Allan' job='test1' birthday='2005-11-11' />
+	<EMPLOYEE id='3' name='Joe' job='test2' birthday='2011-11-01' />
+</dataset>
